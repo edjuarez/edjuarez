@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Eduardo Juárez
-Senior Frontend Engineer | 11+ años | React · Angular · TypeScript · Roku/BrightScript
 
 Web Developer with 10+ years of experience working on real production environments, fixing bugs, maintaining features, and building UI components for large-scale projects.  
 I focus on JavaScript, TypeScript, React, and writing clean, maintainable code.
