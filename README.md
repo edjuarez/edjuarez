@@ -35,12 +35,6 @@ I focus on JavaScript, TypeScript, React, and writing clean, maintainable code.
 - QA + Dev mindset  
 - Clear communication and teamwork
 
----
-
-## 📈 Currently Learning
-
-- Testing with Vitest  
-- Generative AI applied to development
 
 ---
 
