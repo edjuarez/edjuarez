@@ -9,8 +9,8 @@ I focus on JavaScript, TypeScript, React, and writing clean, maintainable code.
 
 -  Italian nationality  
 - 🗣 Native Spanish speaker  
-- 🗣 English — B2 Upper Intermediate  
-- 📍 Based in Barcelona  
+- 🗣 English — B2 Professional
+- 📍 Based in Barcelona
 - 🔎 Open to opportunities in Spain and EU.
 
 ---
