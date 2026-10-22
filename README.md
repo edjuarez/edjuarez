@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Juárez 👋
 
-### Software Engineer | Frontend Developer | Full Stack Web Developer
+### Software Engineer | Frontend Developer | Full Stack Developer
 
 Software Engineer with 11+ years of experience contributing to production software for international clients and large-scale digital products.
 
@@ -69,11 +69,11 @@ Contributed to the development and maintenance of production applications for in
 
 ## 🚀 Featured Projects
 
-### Noventitre — Business Website
+### Noventitre — Full E-commerce Solution
 
-A website project focused on presenting a business online through a custom interface, responsive layouts, and a tailored user experience.
+A complete e-commerce project focused on delivering an end-to-end online shopping experience.
 
-**Focus:** Frontend development · Responsive design · UI implementation
+**Focus:** Frontend development · Product catalog · Shopping experience · E-commerce functionality
 
 🌐 [Visit Website](https://www.noventitre.com/)
 
@@ -84,12 +84,6 @@ My own digital business, focused on building websites and digital solutions for 
 **Focus:** Full-stack web development · Client projects · Integrations · Deployment · Maintenance
 
 🌐 [Visit Website](https://www.tuchidigital.com/)
-
-### E-commerce Platform — Full E-commerce Solution
-
-A complete e-commerce project focused on delivering an end-to-end online shopping experience.
-
-**Focus:** Frontend development · Product catalog · Shopping experience · E-commerce functionality
 
 ---
 
