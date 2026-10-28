@@ -8,11 +8,10 @@ My main focus is frontend development with React, TypeScript, and modern web tec
 
 Throughout my career, I've contributed to projects for Disney, National Geographic, ABC News, EY, and TTEC, collaborating with distributed teams and delivering solutions in production environments.
 
-- 📍 Barcelona, Spain
+- 📍 Spain
 - 🇪🇺 Italian citizen, authorized to work in Spain and the EU
 - 🗣️ Spanish (Native) · English (B2)
-- 💼 Open to Frontend Engineer and Software Engineer opportunities across Spain and Europe
-
+- 💼 Open to Frontend Engineer and Software Engineer opportunities
 ---
 
 ## 🛠️ Tech Stack
@@ -103,5 +102,6 @@ My own digital business, focused on building websites and digital solutions for 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-juarez-cba/)
 - 📧 [edujuarezcba@gmail.com](mailto:edujuarezcba@gmail.com)
 - 🌐 [Tuchi Digital](https://www.tuchidigital.com/)
+- 🌐 [Personal Portfolio](https://www.edujuarez.dev/)
 - 💻 [GitHub](https://github.com/edjuarezcba)
 
