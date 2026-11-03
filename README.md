@@ -1,6 +1,7 @@
 # Hi, I'm Eduardo Juárez 👋
 
-### Software Engineer | Frontend Developer | Full Stack Developer
+### Software Engineer
+#### Frontend & Full Stack Developer
 
 Software Engineer with 11+ years of experience contributing to production software for international clients and large-scale digital products.
 
